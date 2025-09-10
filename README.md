@@ -1,2 +1,2 @@
 # py_ptype_system
-Pythonで構築したStreamlitベースのタイプ診断システムです。
+Pythonで構築したStreamlitベースの某モンスターバトルでのタイプ診断システムです。
