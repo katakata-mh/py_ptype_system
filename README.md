@@ -1,0 +1,2 @@
+# py_ptype_system
+Pythonで構築したStreamlitベースのタイプ診断システムです。
